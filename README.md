@@ -1,0 +1,3 @@
+# solscalc
+
+Simple dilution calculator
