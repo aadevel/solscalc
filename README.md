@@ -1,6 +1,6 @@
 # solscalc
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/aadevel-solscalc-zagbsw6c/apps/Solution_calculator_v2.ipynb?appmode_scroll=0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aadevel/solscalc/main?urlpath=%2Fapps%2FSolution_calculator_v2.ipynb)
 
 
 Simple dilution calculator
